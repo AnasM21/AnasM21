@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnasM21
 - 👀 I’m interested in learning !
-- 🌱 I’m currently learning react , python(django) , java and hopefully many more to add
+- 🌱 I’m currently learning react , python(django) , java .... 
 - 💞️ I’m looking to collaborate on projects that will make me improve alongside with sharpening my skills in coding
 - 📫 How to reach me : Disorcd (Yoru#6950) , email : mohammadi.anas@yahoo.com
 

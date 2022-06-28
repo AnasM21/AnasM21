@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/yoruxa" target="blank"><img src="https://img.shields.io/twitter/follow/yoruxa?logo=twitter&style=for-the-badge" alt="yoruxa" /></a> </p>
 
-- 🔭 I’m currently working on [Digital E-Banking(front end side)](https://github.com/AnasM21/digital-banking-angular-front)
+- 🔭 I’m currently working on a Vue Js course to prepare myself for the upcoming internship
 
-- 🌱 I’m currently learning **Angular,Spring**
+- 🌱 I’m currently learning **Angular,Spring,Vue Js**
 
 - 📫 How to reach me **mohammadi.anas@yahoo.com**
 

@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasm21" alt="anasm21" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yoruxa" target="blank"><img src="https://img.shields.io/twitter/follow/yoruxa?logo=twitter&style=for-the-badge" alt="yoruxa" /></a> </p>
 
 - 🔭 I’m currently self-learning to become a data scientist
 

@@ -32,12 +32,7 @@
 
               Hello there 👋 
 
-- 👨🏻‍💻 I’m @Imane-Rahoui a passionate self-taught full stack web / mobile developer.
-- 🎓 I'm currently 5th year software engineering student at EMSI (Casablanca - Morocco) .
-- 💞️ My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-- ✅ I take great care in the experience, architecture, and code quality of the things I build.
 - 📄 There is my [resume](<RAHOUI Imane_Curriculum Vitae.pdf>)
-- 📫 Ask me about anything, I'm happy to help; [Email](mailto:imaanerahoui@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) OR [Linkedin](https://www.linkedin.com/in/imane-rahoui/);
 <br>
 <br>
 ⚙️ Languages AND Tools

@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anas-mohammadi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-mohammadi/" height="30" width="40" /></a>
 </p>
+<h3 align="left">Here is my email ! Don't hesitate to rach out to me :</h3>
 <a href="mailto:mohammadianas84@gmail.com?subject=Enquiry&body=Hello, I'm interested in your work and I would like to know more about it">Contact me</a>
 
 

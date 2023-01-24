@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohammadi.anas@yahoo.com**
 - Here is my [Resume](Resume_FR.pdf) -- French Version
-- - Here is my [Resume](Resume_ENG.pdf) -- English Version
+- Here is my [Resume](Resume_ENG.pdf) -- English Version
 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anas-mohammadi/](https://www.linkedin.com/in/anas-mohammadi/)

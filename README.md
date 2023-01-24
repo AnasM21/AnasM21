@@ -30,9 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasm21&" alt="anasm21" /></p>
 
-              Hello there 👋 
 
-- 📄 There is my [resume](<RAHOUI Imane_Curriculum Vitae.pdf>)
 <br>
 <br>
 ⚙️ Languages AND Tools

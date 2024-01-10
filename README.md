@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently self-learning to become a data scientist
 
-- 🌱 I’m currently learning **Python,R,Machine Learning & Deep Learning, NLP**
+- 🌱 I’m currently into **Data Science,Machine& Deep Learning**
 
 - 📫 How to reach me **mohammadi.anas@yahoo.com**
 - Here is my [Resume](Resume_FR.pdf) -- French Version
